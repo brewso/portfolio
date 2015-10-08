@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewpoint" content="width=device-width,initial-scale=1">
+
+    <title>Portfolio</title>
+    
+	<link href="bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="main.css">
+
+	
+  </head>
+ <body>
+   <div id="wrap">
+<!-- HEADER -->
+
+    <div class="head">
+      <img src="https://sumozasnullpointer.files.wordpress.com/2015/04/udacity-logo.jpg" style="width: 10%; height: 10%;" align="left" >
+        <h1>
+	  Eric Brousseau
+        </h1>
+        <p>
+          Front-end Ninja
+        </p>
+    </div>
+
+
+
+<!---  main photo  --->
+
+ <div class="jumbotron">
+   <div class="row">
+     <div class="col-md-9 col-md-offset-2">
+       <img src="http://pubpages.unh.edu/~vlw23/html.jpg" style="width: 100%; height: 50%;" align="right"> 
+     </div>
+   </div>
+ </div>
+
+
+<!--- featured work --->
+
+ <div class="work">
+   <div class="row">
+     <div class="col-md-3 col-sm-offset-1">
+       <h2>Featured Work</h2>
+     </div>
+   </div>
+
+   <div class="row">
+     <div class="col-md-3 col-sm-offset-1">
+       <a href="https://github.com/udacity/Appify/"><img src="https://pixabay.com/static/uploads/photo/2012/11/30/06/00/app-68002_640.jpg" style="width: 100%; height: 100%;">
+               <h3>APPIFY</h3>
+                 <br>
+                   <p>https://github.com/udacity/Appify/</p>
+       </a>
+     </div>
+
+
+     <div class="col-md-3 col-sm-offset-1">
+       <a href="https://github.com/udacity/Sunflower/"><img src="http://data.whicdn.com/images/12805096/original.png" style="width: 100%; height: 100%;">
+               <h3>SUNFLOWER</h3>
+                 <br>
+                   <p>https://github.com/udacity/Sunflower/</p>
+       </a>
+     </div>
+
+
+     <div class="col-md-3 col-sm-offset-1">
+       <a href="https://github.com/udacity/Bokeh/"><img src="app" style="width: 100%; height: 100%;">
+               <h3>BOKEH</h3>
+                 <br>
+                   <p>https://github.com/udacity/Bokeh/</p>
+       </a>
+     </div>
+
+  </body>
+</html>

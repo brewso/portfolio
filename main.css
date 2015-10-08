@@ -1,0 +1,57 @@
+#container {
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.head {
+    padding: 10px;
+    border-bottom: solid gray;
+}
+
+.head img {
+    float: left;
+    min-width: 50px;
+}
+
+.head h1 {
+    text-transform: uppercase;
+    text-align: right;
+    color: #626262;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head p {
+    text-transform: uppercase;
+    text-align: right;
+    color: #626262;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.jumbotron img {
+    float: right;
+}
+
+.work h2 {
+    color: #bcbbbb;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+.work h3 {
+    text-transform: uppercase;
+    color: #626262;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.work p {
+    color: #626262;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.row {
+    padding: 10px;
+}
